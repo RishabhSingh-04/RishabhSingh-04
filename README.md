@@ -10,9 +10,6 @@ I'm currently working as an Analyst/Software Engineer at Capgemini. My passion l
 - Angular
 - SQL, Python, C++
 
-## Projects
-- **Project 1:** Brief description and link (if public)
-- **Project 2:** Brief description and link (if public)
-- **Project 3:** Brief description and link (if public)
+
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
